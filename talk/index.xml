@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Krishna Murthy</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Krishna Murthy</copyright>
+    <image>
+      <url>/img/krishna.jpg</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Taskography - Evaluating robot task planning over large 3D scene graphs</title>
+      <link>/talk/2021-12-15-talking-robotics/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/2021-12-15-talking-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taskography - Evaluating robot task planning over large 3D scene graphs</title>
+      <link>/talk/2021-10-17-iccv-struco3d-workshop/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/2021-10-17-iccv-struco3d-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scene representations for autonomous driving</title>
+      <link>/talk/2021-08-22-ijcai-workshop-driving/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/2021-08-22-ijcai-workshop-driving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable programming for SpatialAI</title>
+      <link>/talk/2021-07-19-tartan-slam-series/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/2021-07-19-tartan-slam-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building differentiable models of the 3D world</title>
+      <link>/talk/2021-01-19-mit-vision-seminar/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/2021-01-19-mit-vision-seminar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
